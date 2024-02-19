@@ -32,7 +32,7 @@ Data/
     └── <leave empty>
 ```
 
-The code to make some preprocessing on the data can be downloaded [here](https://drive.google.com/file/d/1LgZoFzkT5g-MLb7uZMu0lOBk1unYPmW4/view?usp=sharing). These codes use the data structure above to make the preprocessing. Read through the notebook to better understand how this is done.
+The code to make some preprocessing on the data can be downloaded [here](https://drive.google.com/file/d/1LgZoFzkT5g-MLb7uZMu0lOBk1unYPmW4/view?usp=sharing) (used in the notebook). They can also be found in the folder `Code` in the repo. These codes use the data structure above to make the preprocessing. Read through the notebook to better understand how this is done.
 
 ## Some results
 
